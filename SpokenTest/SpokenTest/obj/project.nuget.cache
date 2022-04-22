@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "v8hsNar3NxeQ4rDEpE/rQT0AKWDI18i0N9tD5XlAV02N463Hbnddp4vYymlBNj8ylGOC2rfaxNcIPzxjts8tDQ==",
+  "success": true,
+  "projectFilePath": "C:\\E\\DOW\\TestApp\\prasadpp26\\DotNet_DockerBootCamp\\SpokenTest\\SpokenTest\\SpokenTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\praspat.FAREAST\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
