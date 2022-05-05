@@ -6,7 +6,7 @@ EXPOSE 80
 EXPOSE 443
 
 FROM mcr.microsoft.com/dotnet/sdk:3.1 AS build
-WORKDIR  "/src"
+WORKDIR /src
 COPY ["SpokenTest/SpokenTest.csproj", "SpokenTest/"]
 RUN dotnet restore "SpokenTest/SpokenTest.csproj"
 COPY . .
