@@ -54,8 +54,6 @@ C:\E\DOW\TestApp\prasadpp26\DotNet_DockerBootCamp\SpokenTest\SpokenTest\obj\Debu
 C:\E\DOW\TestApp\prasadpp26\DotNet_DockerBootCamp\SpokenTest\SpokenTest\obj\Debug\netcoreapp3.1\SpokenTest.RazorAssemblyInfo.cache
 C:\E\DOW\TestApp\prasadpp26\DotNet_DockerBootCamp\SpokenTest\SpokenTest\obj\Debug\netcoreapp3.1\SpokenTest.RazorAssemblyInfo.cs
 C:\E\DOW\TestApp\prasadpp26\DotNet_DockerBootCamp\SpokenTest\SpokenTest\obj\Debug\netcoreapp3.1\staticwebassets\SpokenTest.StaticWebAssets.Manifest.cache
-C:\E\DOW\TestApp\prasadpp26\DotNet_DockerBootCamp\SpokenTest\SpokenTest\obj\Debug\netcoreapp3.1\staticwebassets\SpokenTest.StaticWebAssets.xml
-C:\E\DOW\TestApp\prasadpp26\DotNet_DockerBootCamp\SpokenTest\SpokenTest\obj\Debug\netcoreapp3.1\scopedcss\bundle\SpokenTest.styles.css
 C:\E\DOW\TestApp\prasadpp26\DotNet_DockerBootCamp\SpokenTest\SpokenTest\obj\Debug\netcoreapp3.1\SpokenTest.TagHelpers.input.cache
 C:\E\DOW\TestApp\prasadpp26\DotNet_DockerBootCamp\SpokenTest\SpokenTest\obj\Debug\netcoreapp3.1\SpokenTest.TagHelpers.output.cache
 C:\E\DOW\TestApp\prasadpp26\DotNet_DockerBootCamp\SpokenTest\SpokenTest\obj\Debug\netcoreapp3.1\SpokenTest.RazorCoreGenerate.cache
@@ -73,3 +71,4 @@ C:\E\DOW\TestApp\prasadpp26\DotNet_DockerBootCamp\SpokenTest\SpokenTest\obj\Debu
 C:\E\DOW\TestApp\prasadpp26\DotNet_DockerBootCamp\SpokenTest\SpokenTest\obj\Debug\netcoreapp3.1\SpokenTest.pdb
 C:\E\DOW\TestApp\prasadpp26\DotNet_DockerBootCamp\SpokenTest\SpokenTest\obj\Debug\netcoreapp3.1\SpokenTest.genruntimeconfig.cache
 C:\E\DOW\TestApp\prasadpp26\DotNet_DockerBootCamp\SpokenTest\SpokenTest\obj\Debug\netcoreapp3.1\SpokenTest.csproj.CopyComplete
+C:\E\DOW\TestApp\prasadpp26\DotNet_DockerBootCamp\SpokenTest\SpokenTest\bin\Debug\netcoreapp3.1\SpokenTest.StaticWebAssets.xml
